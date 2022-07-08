@@ -24,8 +24,8 @@ Summoner to check anytime (mostly on Champion select) which character will them 
 
 
 ## First you will need to install Cassiopeia:
-######Installation
-`pip install cassiopeia` or see here for more information.
+###### Installation
+`pip install cassiopeia` or see [here](http://cassiopeia.readthedocs.io/en/latest/setup.html) for more information.
 
 #### Python　
 	def my_region():    #defines which region are we searching
