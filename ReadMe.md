@@ -15,7 +15,7 @@ Easily shows your:
 
 ###### Well.. How?
 Riot Games provides a powerfull API which contains a lot of data to collect.
-So this program basically requests all the information (I decided is important) for you to check your mastery in a *easy way*!
+So this program basically requests all the information (I decided is important) for you to check your mastery in an *easy way*!
 
 ## **Goal**
 Summoner to check anytime (mostly on Champion select) which character will them play to level up a *non-maxed* mastery.
