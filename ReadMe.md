@@ -53,8 +53,8 @@ Summoner to check anytime (mostly on Champion select) which character will them 
 
 
 ### Example
-
-![m1 call](https://imgur.com/a/DpcyWQn)
+https://imgur.com/a/DpcyWQn
+![[m1 call](https://imgur.com/a/DpcyWQn](https://imgur.com/a/DpcyWQn))
 
 >--==RUNNING MASTERY PARSER FOR LOL==--
 RGAPI-6d44e78d-534b-4ebf-a494-7104c62b0f90
