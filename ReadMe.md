@@ -32,7 +32,7 @@ Summoner to check anytime (mostly on Champion select) which character will them 
 
 
 
-### Example[
+### Example
 
 
 ![m1 call](https://i.imgur.com/4bqXVuv.jpg)
