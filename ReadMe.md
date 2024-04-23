@@ -28,27 +28,7 @@ Summoner to check anytime (mostly on Champion select) which character will them 
 `pip install cassiopeia` or see [here](http://cassiopeia.readthedocs.io/en/latest/setup.html) for more information.
 
 #### Python　
-	def my_region():    #defines which region are we searching
-		region="BR"
-		return region
-	
-	--------------------------------------------------------------------- 
-	
-	# Main run  
-	if __name__ == "__main__":
-		print("--==RUNNING MASTERY PARSER FOR LOL==--")
-		
-		#executes the API 
-		api = getAPI_key()
-		print (api)
-		cass.set_riot_api_key(api) #or replace with your own api key
-
-		#var declarations
-		me = Summoner(name="Quinn Lee Spree", region=my_region())
-		[...]
-
-		#func calling
-		[...]
+![Imgur](https://imgur.com/KDs1rqz.png)
 
 
 
