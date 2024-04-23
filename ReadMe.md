@@ -28,8 +28,7 @@ Summoner to check anytime (mostly on Champion select) which character will them 
 `pip install cassiopeia` or see [here](http://cassiopeia.readthedocs.io/en/latest/setup.html) for more information.
 
 #### Python　
-![Imgur](https://imgur.com/KDs1rqz.png)
-
+![Imgur](https://imgur.com/u4NmdTW.png)
 
 
 ### Example
