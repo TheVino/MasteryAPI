@@ -1,5 +1,6 @@
 # Mastery API
 
+> _THIS PROJECT IS A FREE EXAMPLE, USED FOR REAL CUSTOMER_
 ## **Context**
 Have you ever thought how many mastery points levels do you have? How many times did you count each of them? Before each game you ran into your collection to check which mastery tokens you need to level up to m7, over and over again?
 **Problem Solved!** Now you can navigate through the interface to check your mastery data and collection.
